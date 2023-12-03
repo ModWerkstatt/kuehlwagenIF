@@ -919,8 +919,8 @@ return {
 			priceScale = 1,
 		},
 		description = {
+			name = "Ibes FS (1980)",
 			description = _("mod_desc"),
-			name = _("Ibes (FS) [1980]"),
 		},
 		emission = {
 			idleEmission = -1,

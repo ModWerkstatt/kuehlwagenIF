@@ -918,8 +918,9 @@ return {
 			price = -1,
 			priceScale = 1,
 		},
-		description = { description = _"mod_desc",
-			name = _("Ibes (Interfrigo) [1957]"),
+		description = {
+			name = "Ibes Interfrigo (1957)",
+            description = _"mod_desc",
 		},
 		emission = {
 			idleEmission = -1,

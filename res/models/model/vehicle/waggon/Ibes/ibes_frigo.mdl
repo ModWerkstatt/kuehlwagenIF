@@ -942,8 +942,9 @@ return {
 			price = -1,
 			priceScale = 1,
 		},
-		description = { description = _"mod_desc",
-			name = _("Ibes (FRIGO/SNCB) [1957]"),
+		description = {
+			name = "Ibes FRIGO/SNCB (1957)",
+            description = _"mod_desc",
 		},
 		emission = {
 			idleEmission = -1,
