@@ -472,6 +472,7 @@ return {
 			},
 			{ 
 				node = { 
+					children = {
 						{ 
 							animations = { 
 								back_forward_parts_off = { 
