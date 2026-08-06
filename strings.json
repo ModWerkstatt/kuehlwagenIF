@@ -1,6 +1,6 @@
 {
   "en": {
-		"menu_falns": "UIC-Standard-1 Cooling Wagon (Ibes)",
+		"menu_ibes": "UIC-Standard-1 Cooling Wagon (Ibes)",
 		
 		"fake": "Fake - ",
 	
@@ -22,7 +22,7 @@
 		
   },
   "de": {
-		"menu_falns": "Ibes UIC-Standard-1 Kühlwagen",
+		"menu_ibes": "Ibes UIC-Standard-1 Kühlwagen",
 	
 		"fake": "Fake -",	
 	
