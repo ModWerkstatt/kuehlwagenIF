@@ -1243,7 +1243,7 @@ return {
 			},
 			description = { 
 				description = _("ibes_desc"),
-				name = _("Ibes STEF (1957)"),
+				name = _("ibes_stef"),
 			},
 			emissions = { 
 				noise = { 

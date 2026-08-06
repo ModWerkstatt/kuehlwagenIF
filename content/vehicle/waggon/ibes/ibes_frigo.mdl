@@ -1243,7 +1243,7 @@ return {
 			},
 			description = { 
 				description = _("ibes_desc"),
-				name = _("Ibes FRIGO/SNCB (1957)"),
+				name = _("ibes_frigo_sncb"),
 			},
 			emissions = { 
 				noise = { 

@@ -979,7 +979,7 @@ return {
 			},
 			description = { 
 				description = _("ibes_desc"),
-				name = _("Ibes Interfrigo/Chiquita (1965)"),
+				name = _("ibes_interfrigo_chiquita"),
 			},
 			emissions = { 
 				noise = { 

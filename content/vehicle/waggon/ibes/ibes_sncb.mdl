@@ -1243,7 +1243,7 @@ return {
 			},
 			description = { 
 				description = _("ibes_desc"),
-				name = _("Ibes SNCB (1963)"),
+				name = _("ibes_sncb"),
 			},
 			emissions = { 
 				noise = { 
