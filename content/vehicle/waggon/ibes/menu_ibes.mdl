@@ -41,14 +41,20 @@ return {
 		description = {
 			name = _("menu_ibes"),
 		},
-		emissions = {
-			noise = {
-				score = 0,
+			emissions = { 
+				noise = { 
+					score = -1,
+					idle = -1,
+					power = -1,
+					speed = -1,
+				},
+				pollution = { 
+					score = -1,
+					idle = -1,
+					power = -1,
+					speed = -1,
+				},
 			},
-			pollution = {
-				score = 0,
-			},
-		},
 		landVehicle = {
 			brakeDeceleration = 0,
 			engines = {
