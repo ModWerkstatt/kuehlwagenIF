@@ -57,7 +57,7 @@ return {
 							materials = { "mw_basis::/vehicle/waggon/mw_basis/mat/zugschluss_sncf_90s_licht.mtl", },
 							mesh = "mw_basis::/vehicle/waggon/mw_basis/msh/zugschluss_sncf_licht_90s_lod0.msh",
 							name = "zugschluss_sncf_licht",
-							transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -5.38, -1.28, 1.4, 1, },
+							transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -5.39, -1.28, 1.4, 1, },
 						},
 						{ 
 							animations = { 
@@ -101,20 +101,20 @@ return {
 							materials = { "mw_basis::/vehicle/waggon/mw_basis/mat/zugschluss_sncf_90s_licht.mtl", },
 							mesh = "mw_basis::/vehicle/waggon/mw_basis/msh/zugschluss_sncf_licht_90s_lod0.msh",
 							name = "zugschluss_sncf_licht2",
-							transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -5.38, 1.27, 1.4, 1, },
+							transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -5.39, 1.27, 1.4, 1, },
 						},
 						{ 
-							animations = {
-								back_backward_parts_off = {
+							animations = { 
+								back_backward_parts_off = { 
 									interpolation = "NEAREST",
-									params = {
+									params = { 
 										id = "::/vehicle/shared/ani/back_forward_parts_off.ani",
 									},
 									type = "FILE_REF",
 								},
-								back_backward_parts_on = {
+								back_backward_parts_on = { 
 									interpolation = "NEAREST",
-									params = {
+									params = { 
 										id = "::/vehicle/shared/ani/back_forward_parts_on.ani",
 									},
 									type = "FILE_REF",
@@ -126,17 +126,17 @@ return {
 							transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 5.38, -1.28, 1.51, 1, },
 						},
 						{ 
-							animations = {
-								back_backward_parts_off = {
+							animations = { 
+								back_backward_parts_off = { 
 									interpolation = "NEAREST",
-									params = {
+									params = { 
 										id = "::/vehicle/shared/ani/back_forward_parts_off.ani",
 									},
 									type = "FILE_REF",
 								},
-								back_backward_parts_on = {
+								back_backward_parts_on = { 
 									interpolation = "NEAREST",
-									params = {
+									params = { 
 										id = "::/vehicle/shared/ani/back_forward_parts_on.ani",
 									},
 									type = "FILE_REF",
@@ -145,20 +145,20 @@ return {
 							materials = { "mw_basis::/vehicle/waggon/mw_basis/mat/zugschluss_sncf_90s_licht.mtl", },
 							mesh = "mw_basis::/vehicle/waggon/mw_basis/msh/zugschluss_sncf_licht_90s_lod0.msh",
 							name = "zugschluss_sncf_licht3",
-							transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 5.38, -1.28, 1.4, 1, },
+							transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 5.39, -1.28, 1.4, 1, },
 						},
 						{ 
-							animations = {
-								back_backward_parts_off = {
+							animations = { 
+								back_backward_parts_off = { 
 									interpolation = "NEAREST",
-									params = {
+									params = { 
 										id = "::/vehicle/shared/ani/back_forward_parts_off.ani",
 									},
 									type = "FILE_REF",
 								},
-								back_backward_parts_on = {
+								back_backward_parts_on = { 
 									interpolation = "NEAREST",
-									params = {
+									params = { 
 										id = "::/vehicle/shared/ani/back_forward_parts_on.ani",
 									},
 									type = "FILE_REF",
@@ -170,17 +170,17 @@ return {
 							transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 5.38, 1.28, 1.51, 1, },
 						},
 						{ 
-							animations = {
-								back_backward_parts_off = {
+							animations = { 
+								back_backward_parts_off = { 
 									interpolation = "NEAREST",
-									params = {
+									params = { 
 										id = "::/vehicle/shared/ani/back_forward_parts_off.ani",
 									},
 									type = "FILE_REF",
 								},
-								back_backward_parts_on = {
+								back_backward_parts_on = { 
 									interpolation = "NEAREST",
-									params = {
+									params = { 
 										id = "::/vehicle/shared/ani/back_forward_parts_on.ani",
 									},
 									type = "FILE_REF",
@@ -189,7 +189,7 @@ return {
 							materials = { "mw_basis::/vehicle/waggon/mw_basis/mat/zugschluss_sncf_90s_licht.mtl", },
 							mesh = "mw_basis::/vehicle/waggon/mw_basis/msh/zugschluss_sncf_licht_90s_lod0.msh",
 							name = "zugschluss_sncf_licht4",
-							transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 5.38, 1.27, 1.4, 1, },
+							transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 5.39, 1.27, 1.4, 1, },
 						},
 						{ 
 							materials = { "mat/ibes_sncb.mtl", },
@@ -533,13 +533,13 @@ return {
 							name = "ibes_bodyplatte",
 							transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 						},
-						{
+						{ 
 							materials = { "mw_basis::/vehicle/waggon/mw_basis/mat/dg_ba_645.mtl", },
 							mesh = "mw_basis::/vehicle/waggon/mw_basis/msh/wheel_920mm_lod0.msh",
 							name = "a1",
 							transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -3.29444, 0.00363837, 0.470174, 1, },
 						},
-						{
+						{ 
 							materials = { "mw_basis::/vehicle/waggon/mw_basis/mat/dg_ba_645.mtl", },
 							mesh = "mw_basis::/vehicle/waggon/mw_basis/msh/wheel_920mm_lod0.msh",
 							name = "a1",
@@ -606,17 +606,17 @@ return {
 							transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -5.38, 1.27, 1.4, 1, },
 						},
 						{ 
-							animations = {
-								back_backward_parts_off = {
+							animations = { 
+								back_backward_parts_off = { 
 									interpolation = "NEAREST",
-									params = {
+									params = { 
 										id = "::/vehicle/shared/ani/back_forward_parts_off.ani",
 									},
 									type = "FILE_REF",
 								},
-								back_backward_parts_on = {
+								back_backward_parts_on = { 
 									interpolation = "NEAREST",
-									params = {
+									params = { 
 										id = "::/vehicle/shared/ani/back_forward_parts_on.ani",
 									},
 									type = "FILE_REF",
@@ -628,17 +628,17 @@ return {
 							transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 5.38, -1.28, 1.4, 1, },
 						},
 						{ 
-							animations = {
-								back_backward_parts_off = {
+							animations = { 
+								back_backward_parts_off = { 
 									interpolation = "NEAREST",
-									params = {
+									params = { 
 										id = "::/vehicle/shared/ani/back_forward_parts_off.ani",
 									},
 									type = "FILE_REF",
 								},
-								back_backward_parts_on = {
+								back_backward_parts_on = { 
 									interpolation = "NEAREST",
-									params = {
+									params = { 
 										id = "::/vehicle/shared/ani/back_forward_parts_on.ani",
 									},
 									type = "FILE_REF",
@@ -961,13 +961,13 @@ return {
 							name = "ibes_bodyplatte",
 							transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 						},
-						{
+						{ 
 							materials = { "mw_basis::/vehicle/waggon/mw_basis/mat/dg_ba_645.mtl", },
 							mesh = "mw_basis::/vehicle/waggon/mw_basis/msh/wheel_920mm_lod1.msh",
 							name = "a1",
 							transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -3.29444, 0.00363837, 0.470174, 1, },
 						},
-						{
+						{ 
 							materials = { "mw_basis::/vehicle/waggon/mw_basis/mat/dg_ba_645.mtl", },
 							mesh = "mw_basis::/vehicle/waggon/mw_basis/msh/wheel_920mm_lod1.msh",
 							name = "a1",
@@ -1034,17 +1034,17 @@ return {
 							transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -5.38, 1.27, 1.4, 1, },
 						},
 						{ 
-							animations = {
-								back_backward_parts_off = {
+							animations = { 
+								back_backward_parts_off = { 
 									interpolation = "NEAREST",
-									params = {
+									params = { 
 										id = "::/vehicle/shared/ani/back_forward_parts_off.ani",
 									},
 									type = "FILE_REF",
 								},
-								back_backward_parts_on = {
+								back_backward_parts_on = { 
 									interpolation = "NEAREST",
-									params = {
+									params = { 
 										id = "::/vehicle/shared/ani/back_forward_parts_on.ani",
 									},
 									type = "FILE_REF",
@@ -1056,17 +1056,17 @@ return {
 							transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 5.38, -1.28, 1.4, 1, },
 						},
 						{ 
-							animations = {
-								back_backward_parts_off = {
+							animations = { 
+								back_backward_parts_off = { 
 									interpolation = "NEAREST",
-									params = {
+									params = { 
 										id = "::/vehicle/shared/ani/back_forward_parts_off.ani",
 									},
 									type = "FILE_REF",
 								},
-								back_backward_parts_on = {
+								back_backward_parts_on = { 
 									interpolation = "NEAREST",
-									params = {
+									params = { 
 										id = "::/vehicle/shared/ani/back_forward_parts_on.ani",
 									},
 									type = "FILE_REF",
@@ -1247,13 +1247,11 @@ return {
 			},
 			emissions = { 
 				noise = { 
-					score = -1,
 					idle = -1,
 					power = -1,
 					speed = -1,
 				},
 				pollution = { 
-					score = -1,
 					idle = -1,
 					power = -1,
 					speed = -1,
@@ -1261,6 +1259,7 @@ return {
 			},
 			landVehicle = { 
 				brakeDeceleration = 0.7,
+				curveSpeedScale = 1,
 				engines = { },
 				friction = 0.02,
 				topSpeed = 27.77,
@@ -1316,7 +1315,7 @@ return {
 									cargoTypeSet = { 
 										cargoClassesExcluded = { },
 										cargoClassesIncluded = { "GOODS", },
-										cargoTypesExcluded = { "::/cargos/books/books.cargo", "::/cargos/bricks/bricks.cargo", "::/cargos/clothes/clothes.cargo", "::/cargos/fabric/fabric.cargo", "::/cargos/furniture/furniture.cargo", "::/cargos/glass/glass.cargo", "::/cargos/paper/paper.cargo", "::/cargos/plastic/plastic.cargo", "::/cargos/tinned_food/tinned_food.cargo", "::/cargos/tires/tires.cargo", "::/cargos/tools/tools.cargo", "::/cargos/wool/wool.cargo",},
+										cargoTypesExcluded = { "::/cargos/books/books.cargo", "::/cargos/bricks/bricks.cargo", "::/cargos/clothes/clothes.cargo", "::/cargos/fabric/fabric.cargo", "::/cargos/furniture/furniture.cargo", "::/cargos/glass/glass.cargo", "::/cargos/paper/paper.cargo", "::/cargos/plastic/plastic.cargo", "::/cargos/tinned_food/tinned_food.cargo", "::/cargos/tires/tires.cargo", "::/cargos/tools/tools.cargo", "::/cargos/wool/wool.cargo", },
 										cargoTypesIncluded = { },
 									},
 									loadIndicator = "bay_0",
@@ -1329,6 +1328,7 @@ return {
 				},
 				departureDelay = 4583,
 				engineTransportModes = { },
+				entrances = { },
 				filterTags = { "default", },
 				groupFileName = "menu_ibes.mdl",
 				loadSpeed = 2,
